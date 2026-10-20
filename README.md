@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Order Analysis Using SQL
+# Restaurant Order Analysis Using SQL
 
 ## 1. Project Objective
 Analyze restaurant menu and order data using SQL to understand menu pricing, customer ordering patterns, popular and unpopular dishes, and high-value orders. The goal is to generate insights that can help the restaurant make informed decisions about its menu and operations.
