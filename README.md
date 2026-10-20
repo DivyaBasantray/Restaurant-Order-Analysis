@@ -59,4 +59,5 @@ The dataset used for this project was from [Maven Analytics](https://app.mavenan
 - Business problem-solving using SQL
 
 ## 8. Business Value
-The analysis provides a foundation for understanding menu performance, customer demand, and high-value orders. These insights can support menu planning, pricing reviews, and decisions about which dishes may need further investigation.
+- The analysis provides a foundation for understanding menu performance, customer demand, and high-value orders.
+- These insights can support menu planning, pricing reviews, and decisions about which dishes may need further investigation.
